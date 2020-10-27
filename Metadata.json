@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 2367,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-workspace-post-comment-azure-automation-powershell-workflow-runbook/master/Hornbill_WorkspacePostComment_Workflow.ps1",
+    "DownloadCount": 724,
+    "Id": "Hornbill-Workspace-Post-e31d1b60",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 425,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow Runbook to add a comment to a post in an activity stream on a Hornbill Instance",
+    "Title": "Hornbill Workspace Post Comment - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-workspace-post-comment-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
